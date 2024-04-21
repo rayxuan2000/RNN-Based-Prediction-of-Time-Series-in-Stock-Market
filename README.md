@@ -11,5 +11,5 @@ The data is from this [source](https://www.superdatascience.com/pages/deep-learn
 ## Summary
 - Performed a time series prediction using a LSTM (Long Short - Term Memory) model via PyTorch.
 - Implemented data normalization, divided dataset into two consecutive chunk (first full 4/5 and last 1/5) as training, testing set and loaded data into GPU memory.
-- Built a RNN (Recurrent Neural Network) with one LSTM module and a fully connected module, adopted MMSE metric, imported Adam optimizer and set sliding window size to be 7 for predicting.
+- Built a RNN (Recurrent Neural Network) model by changing activation and regularization function and set sliding window size to be 7 for predicting.
 - Trained RNN model with 300 epoch, presented parameters and loss figure with final loss 0.0011.
