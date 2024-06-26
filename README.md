@@ -8,6 +8,9 @@ The particular network architecture I will employ for my RNN is a Long Term Shor
 ## Data and Code
 The data is from this [source](https://www.superdatascience.com/pages/deep-learning). It also has been uploaded to the repo. The code is in the Jupyter notebook format in the repo.
 
+## Some notes
+- How to understand the parameters of lstm?
+
 ## Summary
 - Performed a time series prediction using a LSTM (Long Short - Term Memory) model via PyTorch.
 - Implemented data normalization, divided dataset into two consecutive chunk (first full 4/5 and last 1/5) as training, testing set and loaded data into GPU memory.
