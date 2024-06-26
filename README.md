@@ -6,7 +6,7 @@ In this project, I perform a time series prediction using a Recurrent Neural Net
 The particular network architecture I will employ for my RNN is a Long Term Short Memory (LTSM), which helps significantly avoid technical problems with optimization of RNNs.
 
 ## Data and Code
-The data is from this [source](https://www.superdatascience.com/pages/deep-learning). It also has been uploaded to the repo. The code is in the Jupyter notebook format in the repo.
+The data is from this [source](https://www.nasdaq.com/market-activity/stocks/nvda/historical). It also has been uploaded to the repo. The code is in the Jupyter notebook format in the repo.
 
 ## Some notes
 - What is input and output of our model?
