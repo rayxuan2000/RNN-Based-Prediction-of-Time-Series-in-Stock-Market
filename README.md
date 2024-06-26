@@ -9,6 +9,9 @@ The particular network architecture I will employ for my RNN is a Long Term Shor
 The data is from this [source](https://www.superdatascience.com/pages/deep-learning). It also has been uploaded to the repo. The code is in the Jupyter notebook format in the repo.
 
 ## Some notes
+- What is input and output of our model?
+
+
 - How to understand the parameters of lstm?
 
 ## Summary
